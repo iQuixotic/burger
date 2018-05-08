@@ -1,0 +1,10 @@
+INSERT INTO burgers (name, devoured) VALUES ('The forbidden burger', true);
+INSERT INTO burgers (name, devoured) VALUES ('The Joe Biden', true);
+INSERT INTO burgers (name, devoured) VALUES ('Prime Rib Burger', true);
+INSERT INTO burgers (name, devoured) VALUES ('Eagle Talon Special', true);
+INSERT INTO burgers (name, devoured) VALUES ('The Obama Burger', true);
+INSERT INTO burgers (name) VALUES ('The Fake News');
+INSERT INTO burgers (name) VALUES ('Powder Soup');
+INSERT INTO burgers (name) VALUES ('The Cat Whisperer');
+INSERT INTO burgers (name) VALUES ('The Big Boy Burger');
+INSERT INTO burgers (name) VALUES ('Hairnet Special');

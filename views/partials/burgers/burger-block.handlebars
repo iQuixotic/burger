@@ -1,0 +1,18 @@
+<li>
+
+<div class="card card-body">
+	{{name}}
+	<div class="row">
+	<div id="change-div">
+		<button class="change-state btn btn-primary" data-id="{{id}}" data-devoured="{{devoured}}">
+			{{#if devoured}}EAT IT !{{else}}PUKE !{{/if}}
+		</button>
+	</div>
+
+	<div id="del-div">
+		<button class="deleteIt btn btn-danger" data-id="{{this.id}}">THROW IT AWAY!</button>
+	</div>
+	</div>
+</div>
+
+</li>
